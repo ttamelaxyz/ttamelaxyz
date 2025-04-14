@@ -4,7 +4,7 @@ Full stack developer🧑‍💻 and Archery🏹, I specialize in developing mode
 
 - 🔭 Сейчас работаю над проектом [Nourish](https://github.com/ttamelaxyz/)
 - 🌱 Learn Java and Vue.js
-- 📫 How to reach me: [Email](sthelmeow@gmail.com) [Telegram](@ZolotarevIvan)
+- 📫 How to reach me: Email: sthelmeow@gmail.com; Telegram: @ZolotarevIvan
 
 ## 🛠️ Tech Stack
 
