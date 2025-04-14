@@ -17,7 +17,7 @@ Full stack developer🧑‍💻 and Archery🏹, I specialize in developing mode
 ## 🚀 Projects
 
 - [Web-piano](https://github.com/ttamelaxyz/pianoWEB)
-- [Todo List](https://github.com/ttamelaxyz/)
+- [Todo List](https://github.com/ttamelaxyz/ToDo_List)
 - [WeatherBot](https://github.com/ttamelaxyz/)
 
 - ⚡P.S: don't wait the perfect moment, take the moment and make it perfect
